@@ -11,7 +11,7 @@ Expliquer le rendu d'une page web
 Créer une page web à partir de zéro
 Utiliser les sélecteurs CSS
 Calculer la spécificité du CSS
-##Travail à faire
+## Travail à faire
 Créer un fichier nommé index.html.
 Écrire la définition correcte doctype pour que la page soit un document valide HTML5.
 Ajouter les éléments pour structurer le document html, head et l'élément body.
@@ -29,7 +29,7 @@ Couleur du background : #eeeae4.
 
 
 
-##Conseils
+## Conseils
 Des commit régulières.
 Un bon nommage (CamelCase).
 Valider votre page HTML avec le service offert par W3C dans ce lien.
